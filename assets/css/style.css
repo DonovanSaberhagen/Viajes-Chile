@@ -43,3 +43,8 @@ i{
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
+#iconosfooter i{
+  font-size: 30px;
+  margin-right: 10px;
+}
