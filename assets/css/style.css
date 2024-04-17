@@ -1,2 +1,45 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
 
+
+#conviajes {
+  width: 400px;
+  height: 500px;
+  margin-right: 60px;
+}
+
+#viajes {
+    background-color: deepskyblue;
+    width: 400px;
+}
+
+#condestino {
+  width: 400px;
+  height: 500px;
+  margin-right: 40px;
+}
+
+#destino {
+    background-color: deepskyblue;
+    width: 400px;
+}
+
+#conruta {
+  width: 400px;
+  height: 500px;
+}
+
+#ruta {
+    background-color: deepskyblue;
+    width: 400px;
+}
+
+#navbarw {
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+}
+
+i{
+    font-size: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
