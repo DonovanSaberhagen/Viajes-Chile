@@ -11,7 +11,7 @@ $(document).ready(function () {
     $(".list-group-item").toggle();
   });
 
-  $("button").click(function () {
+  $("#enviarcorreo").click(function () {
     console.log("HiceClick");
     alert("Mensaje fue Enviado");
   });
@@ -21,5 +21,5 @@ $(document).ready(function () {
     $(this).css({ color: "yellow" });
   });
 
-  
+
 });
