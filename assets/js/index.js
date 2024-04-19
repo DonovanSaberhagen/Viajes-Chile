@@ -21,5 +21,16 @@ $(document).ready(function () {
     $(this).css({ color: "yellow" });
   });
 
+  $("#viajes").click(function () {
+    $("#viajestext").toggle();
+  });
+
+  $("#destino").click(function () {
+    $("#destinotext").toggle();
+  });
+
+  $("#ruta").click(function () {
+    $("#rutatext").toggle();
+  });
 
 });
